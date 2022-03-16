@@ -12,3 +12,6 @@ predict who an author may co-author with in future.
 - Built a python link prediction program using the enhanced link prediction algorithm in order to
 predict who an author may co-author with in future.
 - To view a video demo please proceed to: [![DBLP APP Dashboard](https://img.youtube.com/vi/v7BQyozbdE8/0.jpg)](https://www.youtube.com/watch?v=v7BQyozbdE8)
+
+# Disclaimer
+This project was done for a school project and for education purposes only and is no longer being maintained. This repository is just used to archive the projects done for school.
